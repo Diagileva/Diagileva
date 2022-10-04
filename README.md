@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Diagileva
-- 👀 I’m interested in blockchain technologies
-- 🌱 I’m currently learning JavaScript, React, Solidity, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dashadasha11 in telegram and dyagileva_com in insta
+- 👀 I’m interested in frontend and going to learn backend and IT architecture
+- 🌱 I’m currently learning JavaScript, React, Solidity, Python, HTML, CSS, Next, TypeScript
+- 💞️ I’m looking to collaborate on interesting projects 
+- 📫 How to reach me - dashadasha1dd in telegram
 
 <!---
 Diagileva/Diagileva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
