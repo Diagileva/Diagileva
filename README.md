@@ -20,11 +20,19 @@ Telegram: @mlechnymiputyami
 
 Email: darya.dyagileva1@gmail.com
 
+Linkdin: https://www.linkedin.com/in/daria-diagileva-3393b91a4 
+
 ### My projects 👇
  
 🔭 I’m currently working on this page. 
 
 | Topic | Project's name | Project's description | Stack |
 | --- | --- | --- | --- |
-| git status | List all new or modified files | drfg |
-| git diff | Show file differences that haven't been staged | sdgf |
+| ML | Project | drfg | python |
+| ML | Project | sdgf | python |
+| CV | LProject | drfg | python |
+| CV | Project | drfg | python |
+| NLP | Project | drfg | python |
+| SQL | Project | drfg | python |
+| Analitics | Project | drfg | python |
+| Analitics | Project | drfg | python |
