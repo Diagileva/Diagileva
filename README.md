@@ -28,7 +28,7 @@ Linkdin: https://www.linkedin.com/in/daria-diagileva-3393b91a4
 
 | Topic | Project's name | Project's description | Stack |
 | --- | --- | --- | --- |
-| ML | Project | drfg | python |
+| ML | Mobile Price Classification ([github](https://github.com/Diagileva/mobile-price-classification)) | drfg | sklearn, pandas, numpy, matplotlib |
 | ML | Project | sdgf | python |
 | CV | LProject | drfg | python |
 | CV | Project | drfg | python |
