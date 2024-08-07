@@ -29,8 +29,8 @@ Linkdin: https://www.linkedin.com/in/daria-diagileva-3393b91a4
 | Topic | Project's name | Project's description | Stack |
 | --- | --- | --- | --- |
 | ML | Mobile Price Classification ([github](https://github.com/Diagileva/mobile-price-classification)) | drfg | sklearn, pandas, numpy, matplotlib |
-| ML | Project | sdgf | python |
-| CV | LProject | drfg | python |
+| ML | Sarcasm Detection from News Headlines ([github](https://github.com/Diagileva/sarcasm_detection)) | dfes | python |
+| CV | Recyclable and Household Waste Classification ([github](https://github.com/Diagileva/waste_classification)) | drfg | python |
 | CV | Project | drfg | python |
 | NLP | Project | drfg | python |
 | SQL | Project | drfg | python |
