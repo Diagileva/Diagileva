@@ -27,7 +27,7 @@ Linkdin: https://www.linkedin.com/in/daria-diagileva-3393b91a4
 🔭 I’m currently working on this page. 
 
 | Topic | Project's name |
-| --- | --- | --- | --- |
+| --- | --- |
 | ML | Mobile Price Classification ([github](https://github.com/Diagileva/mobile-price-classification)) |
 | NLP | Sarcasm Detection from News Headlines ([github](https://github.com/Diagileva/sarcasm_detection)) |
 | CV | Recyclable and Household Waste Classification ([github](https://github.com/Diagileva/waste_classification)) |
