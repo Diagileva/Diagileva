@@ -26,13 +26,13 @@ Linkdin: https://www.linkedin.com/in/daria-diagileva-3393b91a4
  
 🔭 I’m currently working on this page. 
 
-| Topic | Project's name | Project's description | Stack |
+| Topic | Project's name |
 | --- | --- | --- | --- |
-| ML | Mobile Price Classification ([github](https://github.com/Diagileva/mobile-price-classification)) | drfg | sklearn, pandas, numpy, matplotlib |
-| ML | Sarcasm Detection from News Headlines ([github](https://github.com/Diagileva/sarcasm_detection)) | dfes | python |
-| CV | Recyclable and Household Waste Classification ([github](https://github.com/Diagileva/waste_classification)) | drfg | python |
-| CV | Project | drfg | python |
-| NLP | Project | drfg | python |
-| SQL | Project | drfg | python |
-| Analitics | Project | drfg | python |
-| Analitics | Project | drfg | python |
+| ML | Mobile Price Classification ([github](https://github.com/Diagileva/mobile-price-classification)) |
+| NLP | Sarcasm Detection from News Headlines ([github](https://github.com/Diagileva/sarcasm_detection)) |
+| CV | Recyclable and Household Waste Classification ([github](https://github.com/Diagileva/waste_classification)) |
+| CV | Project |
+| NLP | Project |
+| SQL | Project |
+| Analitics | Project |
+| Analitics | Project |
