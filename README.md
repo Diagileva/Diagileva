@@ -20,7 +20,7 @@ Telegram: @mlechnymiputyami
 
 Email: darya.dyagileva1@gmail.com
 
-Linkdin: https://www.linkedin.com/in/daria-diagileva-3393b91a4 
+Linkdin: https://www.linkedin.com/in/daria-diagileva
 
 ### My projects 👇
  
