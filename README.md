@@ -9,10 +9,10 @@
 ### Languages and tools 🔧
 
 - Programming Languages: Python
-- Machine Learning: Scikit-learn, PyTorch
+- Machine Learning: Scikit-learn, PyTorch, PySpark
 - Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, etc
-- Database Management: SQL, SQLAlchemy
-- Others: Tableau, FastAPI, Airflow
+- Database Management: SQL, SQLAlchemy, ClickHouse
+- Others: Tableau, FastAPI, Airflow, Tableau
 
 
 ### Contacts 📫 
@@ -33,6 +33,4 @@ Linkdin: https://www.linkedin.com/in/daria-diagileva
 | CV | Recyclable and Household Waste Classification ([github](https://github.com/Diagileva/waste_classification)) |
 | CV | Project |
 | NLP | Project |
-| SQL | Project |
-| Analitics | Project |
-| Analitics | Project |
+| NLP | Project |
